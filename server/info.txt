@@ -1,0 +1,1 @@
+// "type": "module" // Helps us to use import statement instead of require statement
